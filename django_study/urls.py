@@ -25,5 +25,5 @@ urlpatterns = patterns('',
     # ex: /app/
     # url(r'^app/current_datetime/', 'app.views.current_datetime', name='current_datetime'),
     url(r'^$', 'app.views.index', name='index'),
-    # url(r'^edit/$', 'app.views.edit', name='edit'),
+    url(r'^edit/$', 'app.views.edit', name='edit'),
 )
