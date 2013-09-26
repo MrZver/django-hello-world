@@ -23,6 +23,7 @@ urlpatterns = patterns('',
     # ex: /app/5/vote/
     # url(r'^(?P<user_id>\d+)/vote/$', views.vote, name='vote'),
     # ex: /app/
-    url(r'^app/current_datetime/', 'app.views.current_datetime', name='current_datetime'),
-    url(r'^$', 'app.views.contactus', name='contactus'),
+    # url(r'^app/current_datetime/', 'app.views.current_datetime', name='current_datetime'),
+    url(r'^$', 'app.views.index', name='index'),
+    # url(r'^edit/$', 'app.views.edit', name='edit'),
 )
