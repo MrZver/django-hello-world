@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" name="Default" comment="fix">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/migrations/__init__.py" />
+    <list default="true" id="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Workspace\github\django-hello-world\app\migrations\0001_initial.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_study/settings.py" afterPath="$PROJECT_DIR$/django_study/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="django-hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380198852596" ignored="false" />
+    <file path="/Dummy.txt" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380198913313" ignored="false" />
     <file path="/settings.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380183169225" ignored="false" />
     <file path="/django_study.wsgi" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380178178456" ignored="false" />
     <file path="/Python Console" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380182591054" ignored="false" />
@@ -16,7 +17,7 @@
     <file path="/urls.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380189402144" ignored="false" />
     <file path="/views.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380192598654" ignored="false" />
     <file path="/contactus.html" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380188607968" ignored="false" />
-    <file path="/models.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380192678320" ignored="false" />
+    <file path="/models.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380199419656" ignored="false" />
     <file path="/admin.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380189294592" ignored="false" />
     <file path="/edit.html" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380189384330" ignored="false" />
     <file path="/index.html" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380193391175" ignored="false" />
@@ -41,10 +42,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_study/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="31" selection-start="333" selection-end="333" vertical-scroll-proportion="0.13631158">
+            <state line="14" column="25" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="47" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="16" column="30" selection-start="545" selection-end="545" vertical-scroll-proportion="0.4714038">
               <folding>
                 <element signature="e#27#55#0" expanded="true" />
               </folding>
@@ -131,9 +132,9 @@
         <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/app/verbose_names.py" />
         <option value="$PROJECT_DIR$/app/templates/index.html" />
-        <option value="$PROJECT_DIR$/app/models.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/django_study/settings.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
       </list>
     </option>
   </component>
@@ -212,24 +213,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-hello-world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-hello-world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -467,7 +450,11 @@
       <created>1380198107407</created>
       <updated>1380198107407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix">
+      <created>1380198920904</created>
+      <updated>1380198920904</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -484,7 +471,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -561,20 +548,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files/Python27/Lib/site-packages/django/conf/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="72" selection-start="859" selection-end="881" vertical-scroll-proportion="0.019473081">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django_study.wsgi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="40" selection-start="113" selection-end="134" vertical-scroll-proportion="0.038946163">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -586,15 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="749" column="6" selection-start="28762" selection-end="28762" vertical-scroll-proportion="-0.3676976">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,15 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="47" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#27#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="12" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
@@ -674,10 +629,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/django_study/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="333" selection-end="333" vertical-scroll-proportion="0.13631158">
+        <state line="14" column="25" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="30" selection-start="545" selection-end="545" vertical-scroll-proportion="0.4714038">
+          <folding>
+            <element signature="e#27#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

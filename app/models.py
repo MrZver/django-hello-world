@@ -14,7 +14,7 @@ class User(models.Model):
     other_contacts = models.TextField(max_length=300)
 
     class Meta:
-        pass
+        db_table = 'user_table'
 
     def __unicode__(self):
         return '{0} {1} ({2})'.format(self.first_name, self.last_name, self.email)
