@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/index.html" />
-      <change type="DELETED" beforePath="D:\Workspace\github\django-hello-world\app\templates\current_datetime.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.db" afterPath="$PROJECT_DIR$/database.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin.py" afterPath="$PROJECT_DIR$/app/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/forms.py" afterPath="$PROJECT_DIR$/app/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_study/urls.py" afterPath="$PROJECT_DIR$/django_study/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
+      <change type="DELETED" beforePath="D:\Workspace\github\django-hello-world\database.db" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Workspace\github\django-hello-world\app\templates\contactus.html" afterPath="$PROJECT_DIR$/app/templates/edit.html" />
     </list>
     <ignored path="django-hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380186727113" ignored="false" />
+    <file path="/Dummy.txt" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380193486622" ignored="false" />
     <file path="/settings.py" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380183169225" ignored="false" />
     <file path="/django_study.wsgi" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380178178456" ignored="false" />
     <file path="/Python Console" changelist="0a7018d1-ada6-41ac-a0f9-02ed3dc2e5fc" time="1380182591054" ignored="false" />
@@ -84,6 +76,7 @@
             <state line="13" column="18" selection-start="448" selection-end="462" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#27#55#0" expanded="true" />
+                <marker date="1380189244776" expanded="true" signature="113:638" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -417,7 +410,11 @@
       <created>1380186734125</created>
       <updated>1380186734125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1380193494961</created>
+      <updated>1380193494961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -557,7 +554,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="25" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -613,6 +610,7 @@
         <state line="13" column="18" selection-start="448" selection-end="462" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#27#55#0" expanded="true" />
+            <marker date="1380189244776" expanded="true" signature="113:638" placeholder="..." />
           </folding>
         </state>
       </provider>
