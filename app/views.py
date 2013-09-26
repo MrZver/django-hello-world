@@ -1,5 +1,5 @@
 from django.http import HttpResponse, HttpResponseNotFound, Http404, HttpResponseRedirect
-from app.models import User
+from app.models import User1
 from django.shortcuts import render
 from django.template import RequestContext, loader
 from app.forms import ContactForm
@@ -7,7 +7,7 @@ import sys
 import pdb
 
 def index(request):
-    mainuser = User.objects.get(pk=1)
+    mainuser = User1.objects.get(pk=1)
     return render(request, 'index.html', {
         'mainuser': mainuser,
     })
