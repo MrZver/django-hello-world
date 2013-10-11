@@ -1,0 +1,16 @@
+[
+  {
+    "model": "app.User1",
+    "pk": 1,
+    "fields": {
+      "first_name": "Yuri",
+      "last_name": "Klyauz",
+      "date_of_birth": "1985-04-12T12:00:00+02:00",
+      "bio": "test",
+      "email": "mrzver@gmail.com",
+      "jabber": "MrZver",
+      "skype": "MrZver",
+      "other_contacts": "test1"
+    }
+  }
+]
